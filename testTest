@@ -1,0 +1,19 @@
+DEFINE <sum>;
+R1=M[SP+4];
+R2=M[SP+8];
+R3=M[SP+12];
+R4=R1+R2;
+R5=R4+R3;
+RV=R5;
+RET;
+END_DEF;
+DEFINE <main>;
+SP=SP-12;
+M[SP]=1;
+M[SP+4]=2;
+M[SP+8]=3;
+CALL <sum>;
+SP=SP+12
+RET
+END_DEF;
+CALL <main>;

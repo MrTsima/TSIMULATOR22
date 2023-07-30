@@ -1,0 +1,3 @@
+/home/mrtsima/Downloads/TSIMULATOR-master/cmake-build-debug/CMakeFiles/TSIMULATOR.dir
+/home/mrtsima/Downloads/TSIMULATOR-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mrtsima/Downloads/TSIMULATOR-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

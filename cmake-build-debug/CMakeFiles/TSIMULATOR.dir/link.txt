@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/TSIMULATOR.dir/main.cpp.o CMakeFiles/TSIMULATOR.dir/ALU.cpp.o CMakeFiles/TSIMULATOR.dir/Memory.cpp.o CMakeFiles/TSIMULATOR.dir/Utils.cpp.o CMakeFiles/TSIMULATOR.dir/emulator.cpp.o -o TSIMULATOR 
